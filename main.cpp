@@ -2,7 +2,7 @@
  
 int main(void)
 {
-int a, b, c, i = 0, limit = 500;
+int a, b, c, i = 0, limit = 100;
 puts("Pythagorean Triples:");
 for ( a = 1; a < limit; ++a )
 {
